@@ -1,7 +1,7 @@
 {
-  "name": "@chrismwilliams/cube.css",
+  "name": "@digital-zombie/cube.css",
   "version": "0.1.0",
-  "description": "",
+  "description": "Packaged css from Cube CSS",
   "type": "module",
   "repository": {
     "type": "git",
