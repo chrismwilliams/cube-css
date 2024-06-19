@@ -1,0 +1,32 @@
+{
+  "name": "@chrismwilliams/cube.css",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismwilliams/cube-css.git",
+    "directory": "package"
+  },
+  "author": "Chris Williams",
+  "license": "MIT",
+  "exports": {
+    "./components": "./src/components/index.css",
+    "./components/cluster": "./src/components/cluster.css",
+    "./components/flow": "./src/components/flow.css",
+    "./components/grid": "./src/components/grid.css",
+    "./components/repel": "./src/components/repel.css",
+    "./components/sidebar": "./src/components/sidebar.css",
+    "./components/switcher": "./src/components/switcher.css",
+    "./components/wrapper": "./src/components/wrapper.css",
+    "./utilities": "./src/utilities/index.css",
+    "./utilities/region": "./src/utilities/region.css",
+    "./utilities/visually-hidden": "./src/utilities/visually-hidden.css",
+    "./global-styles": "./src/global/global-styles.css",
+    "./reset": "./src/global/reset.css",
+    "./variables": "./src/global/variables.css"
+  },
+  "files": [
+    "src"
+  ]
+}
