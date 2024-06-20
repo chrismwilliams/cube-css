@@ -1,6 +1,6 @@
 {
   "name": "@digital-zombie/cube.css",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Packaged css from Cube CSS",
   "type": "module",
   "repository": {
@@ -11,6 +11,8 @@
   "author": "Chris Williams",
   "license": "MIT",
   "exports": {
+    "./blocks": "./src/blocks/index.css",
+    "./blocks/prose": "./src/blocks/prose.css",
     "./components": "./src/components/index.css",
     "./components/cluster": "./src/components/cluster.css",
     "./components/flow": "./src/components/flow.css",
