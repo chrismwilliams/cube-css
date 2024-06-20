@@ -10,6 +10,9 @@ The packaged css from Set Studio's [Cube Boilerplate](https://github.com/Set-Cre
 @chrismwilliams/cube.css
 ├── package.json
 └── src/
+    ├── blocks/
+    │   ├── index.css
+    │   └── prose.css
     ├── components/
     │   ├── index.css
     │   ├── cluster.css
