@@ -13,7 +13,7 @@ The packaged css from Set Studio's [Cube Boilerplate](https://github.com/Set-Cre
     ├── blocks/
     │   ├── index.css
     │   └── prose.css
-    ├── components/
+    ├── compositions/
     │   ├── index.css
     │   ├── cluster.css
     │   ├── flow.css
